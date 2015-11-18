@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Stuggy Vines</string>
+
+    <string name="title_section1">Stuggy Sounds</string>
+    <string name="title_section2">Ashton Sounds</string>
+    <string name="title_section3">Mouthboard</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
